@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173428490632",
+    "project_id": "ambulanceapp-be156",
+    "storage_bucket": "ambulanceapp-be156.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173428490632:android:f6e999553a2a6edaa37a3d",
+        "android_client_info": {
+          "package_name": "com.example.patient_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBikoYx6A5VgLl9M43Z0xFxlkfTI4HOVqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

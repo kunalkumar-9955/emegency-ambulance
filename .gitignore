@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+db.sqlite3
+media/
+staticfiles/
+backups/
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+
+# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.pem
+credentials.json
+
+# Added by Project Command Center AI Agent
+.env.*
+*.key
+secrets.json
+*.pyc
+
+.github/
+
